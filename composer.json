@@ -1,0 +1,14 @@
+{
+    "name": "pronesti/estoes",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pronesti",
+            "email": "dieh.diego@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.5",
+        "slim/psr7": "^1.2"
+    }
+}
